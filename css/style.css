@@ -1,0 +1,17 @@
+#page-container div {
+    display: inline-block;
+}
+
+#images {
+    width: 300px;
+    height: auto;
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
+.ptags {
+    width: 200px;
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
