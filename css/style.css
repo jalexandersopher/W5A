@@ -15,3 +15,25 @@
     padding-top: 20px;
 }
 
+#percent {
+    width: 25%;
+    height: auto;
+}
+
+#points {
+    width: 60pt;
+    height: auto;
+}
+
+#p1 {
+    font-size: 0.8em;
+}
+
+#p2 {
+    font-size: 0.6rem;
+}
+
+#images1 {
+    width: 25vw;
+    height: 30vh;
+}
